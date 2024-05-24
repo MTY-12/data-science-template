@@ -122,7 +122,7 @@ oct(5)  # 0o5, octal
 abs(-2)  # 2, absolute value
 round(3.75)  # 4, round off
 pow(2, 3)  # 8, power
-import math  # math module
+import math  # math module # math module is an object with properties and methods for mathematical constants and functions
 math.ceil(2.9)  # 3, ceiling
 math.floor(2.9)  # 2, floor
 math.sqrt(16)  # 4.0, square root
@@ -339,12 +339,21 @@ greet()  # b, global variable
 print(message)  # b, global variable
 
 # 36. Modules:  a file containing a set of functions that can be included in other files
+
 # Path: src/models/Python_basic.py
 # Compare this snippet from src/models/test.py:
 # print('hello world!')
 
+# 37. Type Conversion:  we can convert between different data types//   int(), float(), str(), bool()
 
 
+# 38. Truthy and Falsy:  in python, the following values are considered falsy: None, 0, 0.0, "", [], (), {}, False
+
+# 39. Conditional Statements:  if, elif, else
+
+
+
+ 
 
 
 
